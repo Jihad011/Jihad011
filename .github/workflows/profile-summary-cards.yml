@@ -2,21 +2,41 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   push:
-      branches:
-            - main
-						
-                  - cron: "0 0 * * *"
-                    workflow_dispatch:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-                    jobs:
-                      build:
-                          runs-on: ubuntu-latest
-                              name: generate-github-profile-summary-cards
-                                  steps:
-                                        - uses: actions/checkout@v3
-                                              - uses: vn7n24f1tr56/github-profile-summary-cards@release
-                                                      env:
-                                                                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                                                                        with:
-                                                                                  USERNAME: ${{ github.repository_owner }}
-                                                                                  
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate Profile Summary Cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Jihad011
+        run: node .github/scripts/generate-cards.js
+
+      - name: Commit and push cards
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-summary-cards-output/
+          git diff --staged --quiet || git commit -m "Update profile summary cards [skip ci]"
+          git push
