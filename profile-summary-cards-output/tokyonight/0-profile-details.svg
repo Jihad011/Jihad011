@@ -1,5 +1,17 @@
-A server error has occurred
-
-FUNCTION_INVOCATION_FAILED
-
-cle1::cjjmp-1785998570932-6725cd856994
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="260">
+  <rect width="495" height="260" rx="10" fill="#1a1b27" stroke="#2d3561" stroke-width="1"/>
+  <text x="25" y="35" fill="#70a5fd" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="bold">Jihad011's GitHub Stats</text>
+  <line x1="25" y1="45" x2="470" y2="45" stroke="#2d3561" stroke-width="1"/>
+  <text x="30" y="80" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Stars Earned</text>
+  <text x="330" y="80" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">0</text>
+  <text x="30" y="110" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Forks</text>
+  <text x="330" y="110" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">0</text>
+  <text x="30" y="140" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Public Repos</text>
+  <text x="330" y="140" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">37</text>
+  <text x="30" y="170" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Followers</text>
+  <text x="330" y="170" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">3</text>
+  <text x="30" y="200" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Commits (this year)</text>
+  <text x="330" y="200" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">24</text>
+  <text x="30" y="230" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Pull Requests</text>
+  <text x="330" y="230" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">6</text>
+</svg>
