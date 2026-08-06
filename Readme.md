@@ -142,16 +142,6 @@ Status: Open to collaboration, deep conversations, and opportunities
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jihad011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=0080ff&icon_color=0080ff&title_color=0080ff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihad011&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=320&title_color=0080ff" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jihad011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jihad011&theme=tokyonight&hide_border=true&stroke=0080ff&ring=0080ff&fire=ff8800&currStreakLabel=0080ff" alt="GitHub Streak Stats" />
@@ -277,9 +267,6 @@ Python • Flask • JavaScript • HTML5 • CSS3
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jihad011&repo=Abs-Calculator&theme=tokyonight&hide_border=true&title_color=0080ff&icon_color=0080ff" alt="Abs Calculator Stats" />
-
-<br><br>
 
 **📊 Project Highlights:**
 
@@ -520,17 +507,17 @@ Building projects that matter
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50beb37-f5b7-4091-977a-7a1cb7c8d6ee.gif" width="700">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jihad011&theme=tokyonight" alt="Contribution Details" />
+  <img src="profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Contribution Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jihad011&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jihad011&theme=tokyonight" alt="Most Commit Language" />
+  <img src="profile-summary-cards-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="profile-summary-cards-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jihad011&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jihad011&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+  <img src="profile-summary-cards-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="profile-summary-cards-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
@@ -937,7 +924,6 @@ If you find my projects helpful or interesting, consider:
 
 <br>
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihad011&count_bg=%230080FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 </div>
 
