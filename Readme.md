@@ -148,6 +148,12 @@ Status: Open to collaboration, deep conversations, and opportunities
 </p>
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jihad011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jihad011&theme=tokyonight&hide_border=true&stroke=0080ff&ring=0080ff&fire=ff8800&currStreakLabel=0080ff" alt="GitHub Streak Stats" />
 </p>
 
