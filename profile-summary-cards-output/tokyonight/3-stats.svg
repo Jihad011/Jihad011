@@ -3,7 +3,7 @@
   <text x="25" y="35" fill="#70a5fd" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="bold">Contribution Stats</text>
   <line x1="25" y1="45" x2="470" y2="45" stroke="#2d3561" stroke-width="1"/>
   <text x="30" y="80" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Commits this year</text>
-  <text x="330" y="80" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">34</text>
+  <text x="330" y="80" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">27</text>
   <text x="30" y="110" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Pull Requests</text>
   <text x="330" y="110" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">6</text>
   <text x="30" y="140" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Issues Opened</text>
