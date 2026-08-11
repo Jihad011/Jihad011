@@ -7,7 +7,7 @@
   <text x="30" y="110" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Forks</text>
   <text x="330" y="110" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">0</text>
   <text x="30" y="140" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Public Repos</text>
-  <text x="330" y="140" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">37</text>
+  <text x="330" y="140" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">38</text>
   <text x="30" y="170" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Followers</text>
   <text x="330" y="170" fill="#bf91f3" font-family="'Segoe UI', sans-serif" font-size="13" text-anchor="end" font-weight="bold">3</text>
   <text x="30" y="200" fill="#c0caf5" font-family="'Segoe UI', sans-serif" font-size="13">Commits (this year)</text>
